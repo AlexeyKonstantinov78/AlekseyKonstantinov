@@ -1,5 +1,21 @@
-<h3>AlekseyKonstantinov</h3>
+<h3>🌏 AlekseyKonstantinov ♉</h3>
 <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74707207?v=4" width="80" height="80" class="avatar avatar-user width-full border color-bg-default">
 <h4>Contact me:</h4>
-- 📫 info@alekseykonstantinov.ru
+- 📬 info@alekseykonstantinov.ru
 <hr>
+<h4>Languages and Tools</h4>
+<img align="left" width="36px" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="left" width="36px" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="left" width="36px" alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="left" width="36px" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img align="left" width="36px" alt="sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+<img align="left" width="36px" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img align="left" width="36px" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+<img align="left" width="36px" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="left" width="36px" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" width="36px" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+<img align="left" width="36px" alt="MySql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img align="left" width="36px" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="left" width="36px" alt="webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+<img align="left" width="36px" alt="gulp" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg">
+<img align="left" width="36px" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">

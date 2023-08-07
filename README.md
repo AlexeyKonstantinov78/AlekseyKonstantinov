@@ -20,6 +20,8 @@
 <img align="left" width="36px" alt="gulp" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg">
 <img align="left" width="36px" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 
-<br>
-## 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=AlexeyKonstantinov&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<h4>📊 GitHub Stats:</h4>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AlexeyKonstantinov&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
+

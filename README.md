@@ -1,7 +1,13 @@
 <h3>🌏 AlekseyKonstantinov ♉</h3>
 <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74707207?v=4" width="80" height="80" class="avatar avatar-user width-full border color-bg-default">
 <h4>Contact me:</h4>
-- 📬 info@alekseykonstantinov.ru
+<a href="mailto:info@alekseykonstantinov.ru" >
+  <img src="https://img.shields.io/badge/-email-62bfc4" >
+</a>
+<br>
+<a href="https://t.me/Alex_kav">
+  <img src="https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9" alt="профиль телеграмм @Alex_kav" />  
+</a>
 <hr>
 <h4>Languages and Tools</h4>
 <img align="left" width="36px" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
